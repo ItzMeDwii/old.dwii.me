@@ -1,3 +1,3 @@
 # DwiiUnknown Website
 
-Live version: [click here](https://dwii.me/)
+Live version: [click here](https://ghpage.dwii.me/)
