@@ -29,7 +29,7 @@ $('a[href*="#"]')
         event.preventDefault();
         $('html, body').animate({
           scrollTop: target.offset().top
-        }, 100, function() {
+        }, 1000, function() {
           // Callback after animation
           // Must change focus!
           var $target = $(target);
