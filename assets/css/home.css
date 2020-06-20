@@ -42,7 +42,7 @@ transition: all 0.2s ease-in-out;
 }
 
 .parallax {
-  background-image: url("https://dwii.me/css/dwiipaint.webp");
+  background-image: url("https://dwii.me/assets/css/dwiipaint.jpg");
   
   background-color: rgba(0, 0, 0, 0.3);
   
@@ -56,7 +56,7 @@ transition: all 0.2s ease-in-out;
 
 .notparallax {
   
-  background-image: url("https://dwii.me/css/dwiipaint.webp");
+  background-image: url("https://dwii.me/assets/css/dwiipaint.jpg");
   
   background-color: rgba(0, 0, 0, 0.3);
   
